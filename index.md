@@ -1,3 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+
 # HinderD.
 
 Hindering drug abuse, one word at a time.
