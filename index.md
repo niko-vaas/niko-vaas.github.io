@@ -3,6 +3,8 @@
 Hindering drug abuse, one word at a time.    <span id="cursor">|</span>
 
 [Contribute. Every dollar helps.](https://gofund.me/2f507f1a)
+[Our blog. Watch us build VAaS.](blog.hinderd.org)
+
 
 <script>
     var cursor = true;
