@@ -6,5 +6,3 @@
 header {
   display: none;
 }
-
-/** SCSS DARK THEME PRIMARY COLORS */ $primary-100:  #2a8535; $primary-200:  #47924b; $primary-300:  #60a060; $primary-400:  #77ad76; $primary-500:  #8ebb8c; $primary-600:  #a4c8a2;  /** SCSS DARK THEME SURFACE COLORS */  $surface-100:  #000000; $surface-200:  #1e1e1e; $surface-300:  #353535; $surface-400:  #4e4e4e; $surface-500:  #696969; $surface-600:  #858585;  /** SCSS DARK THEME MIXED SURFACE COLORS */  $surface-mixed-100:  #0a1309; $surface-mixed-200:  #222822; $surface-mixed-300:  #3a3f39; $surface-mixed-400:  #535852; $surface-mixed-500:  #6d716c; $surface-mixed-600:  #888c88;  /** EXAMPLES */  color:  $surface-600;  background-color:  $primary-300;
