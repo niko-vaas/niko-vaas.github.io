@@ -1,3 +1,9 @@
+<style>
+h1.textstyle {
+    font-family: 'Courier New', monospace;
+}
+</style>
+
 # HinderD.
 
 Hindering drug abuse, one word at a time.    <span id="cursor">|</span>
