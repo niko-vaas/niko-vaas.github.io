@@ -1,4 +1,5 @@
 name: ""
 title: null
+baseurl: "."
 
 remote_theme: no-style-please
