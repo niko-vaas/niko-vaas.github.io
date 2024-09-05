@@ -2,4 +2,4 @@ name: ""
 title: null
 baseurl: ""
 
-remote_theme: no-style-please
+remote_theme: jekyll-theme-no-style-please
