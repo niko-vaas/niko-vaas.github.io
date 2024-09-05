@@ -1,1 +1,1 @@
-gem install no-style-please
+gem "no-style-please"
