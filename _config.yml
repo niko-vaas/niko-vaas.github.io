@@ -1,6 +1,6 @@
 name: ""
 title: null
 baseurl: ""
-url: "hinderd.org"
+url: "https://www.hinderd.org"
 
 remote_theme: jekyll-theme-no-style-please
