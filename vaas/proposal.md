@@ -1,6 +1,4 @@
-# VAaS Project Proposal
-
-My project, VAaS, will make small electrical chips that will stop drug overdoses. VAaS is short for Vocal Analysis for abuse of Substance. I decided to name it after Vaas Montenegro, the drug-addicted fictional antagonist of Far Cry 3. He has a pretty iconic speech about the definition of insanity (doing the same thing over and over again and expecting different results), which applies to the drug problem in the US. People keep trying the same things to combat drug overdoses, and while the effort is incredible and undeniably helps many people, the death toll continues to rise with the addition of new drugs into the urban drug ecosystem.
+My project, VAaS, will make small electrical chips that will stop drug overdoses. VAaS is short for Vocal Analysis for abuse of Substance. I decided to name it after Vaas Montenegro, the drug-addicted fictional antagonist of Far Cry 3. He has a pretty iconic speech about the definition of insanity (doing the same thing over and over again and expecting different results), which applies heavily to the drug problem in the US. People keep trying the same things to combat drug overdoses, and while the effort is incredible and undeniably helps many people, the death toll continues to rise with the addition of new drugs into the urban drug ecosystem.
 
 There have been more fentanyl deaths in 2023 than there have been total deaths in the United States Armed Forces since the 1970s.
 
