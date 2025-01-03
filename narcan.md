@@ -8,6 +8,6 @@ fentanyl strips are available to test your drinks and drugs.
 
 training is needed to request narcan.
 
-(coming soon)
+[get your narcan here](./narcan/form.html)
 
 [narcan project proposal](./narcan/proposal.html)
