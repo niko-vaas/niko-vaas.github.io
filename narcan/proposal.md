@@ -2,7 +2,7 @@
 title: narcan proposal
 ---
 
-Update as of 1/2/2025 - the network is still under development, but we are ready to start shipping. Visit [the form](../form.html) to order your first dose today!
+Update as of 1/2/2025 - the network is still under development, but we are ready to start shipping. Visit [the form](./form.html) to order your first dose today!
 
 ### or, the HinderD network
 
