@@ -2,8 +2,7 @@
 title: narcan proposal
 ---
 
-Update as of 1/2/2025 - the network is still under development, but we are ready to start shipping. Visit [the form](./form.html) to order your first dose today!
-
+<div class="embedsocial-forms-iframe" data-ref="6b9da8f11affda51557b5c497c4eb641ec912898" data-widget="true" data-height="auto"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/ef.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialFormsScript"));</script>
 ### or, the HinderD network
 
 In the State of California, Narcan is given to any corporation that requests it for life-saving purposes. The two kinds offered are intramuscular (injections) and nasal spray (over-the-counter Narcan). However, any individual who would like to carry Narcan to be helpful has no other option but to purchase it over-the-counter. HinderD would like to use this to build a network of volunteers (and for-proit organizations) who would like to receieve free narcan in case of emergencies. 
